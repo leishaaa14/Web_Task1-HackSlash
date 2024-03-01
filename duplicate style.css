@@ -1,0 +1,94 @@
+.first{
+    margin-left: 250px;
+    margin-top: 35px;
+    font-weight: 500px;
+
+
+}
+#font1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.font2{
+
+    margin-left: -20px;
+margin-top: 60px;
+font-size:50px;
+width: 400px;
+font-weight: 0px;
+color: rgb(80, 79, 79);
+}
+.font3{
+margin-left: -20px;
+margin-top: 50px;
+font-size:20px;
+width: 420px;
+font-weight: 0px;
+color: rgb(3, 3, 3);
+}
+.font4{
+    margin-left: -20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 40px;
+    font-size:22px;
+    width: 420px;
+    font-weight: 0px;
+    color: rgb(3, 3, 3);
+    display: inline-block;
+    padding: 20px;
+border: 4px solid #f5f7f9 !important;
+border-radius: 6px;
+transition: all 0.3s ease 0s;
+    }
+    .font5{
+
+    margin-left: -20px;
+    margin-top: 5px;
+    font-size:50px;
+    width: 400px;
+    font-weight: 0px;
+    color: rgb(80, 79, 79);
+    }
+    .button_mar{
+        margin-top: 130px;
+        margin-left: -25px;
+
+    }
+    .button{
+        width: 220px;
+        height: 60px;
+        color: aliceblue;
+        font-size: larger;
+        background-color: rgb(8, 8, 8);
+        border-width: 2px;
+        border-color: antiquewhite;
+       
+    }
+    
+    .bodix{
+            background-color: rgb(29, 28, 28);
+            color: antiquewhite;
+            size:6000px 6000px;
+    }
+    .image{
+        margin-left: 550px;
+        margin-top: -1640px;
+        width: 40px;
+        height: 40px;
+    }
+    img:hover {
+  -webkit-transform: scalex(-1);
+  transform: rotatex(-1);
+  -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    transition: -webkit-transform 0.9s;
+    transition: transform 0.9s;
+
+}
+.font4:hover {
+    color: #494949 !important;
+    border-radius: 50px;
+    border-color: #656464 !important;
+    transition: all 0.3s ease 0s;
+    font-size: 30px;
+    }
